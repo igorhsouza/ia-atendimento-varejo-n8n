@@ -1,4 +1,5 @@
 Automação de Ponta a Ponta com n8n, IA e Visão Computacional
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 Este projeto não é apenas um chatbot, mas um ecossistema de atendimento automático desenvolvido para o setor de varejo (supermercados). Ele utiliza Inteligência Artificial para entender as intenções do cliente, processar arquivos e otimizar a operação humana.
 
 🚀 O que este Bot faz? (Funcionalidades)
