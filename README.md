@@ -4,11 +4,11 @@ Automação de Ponta a Ponta com n8n, IA e Visão Computacional
 Este projeto não é apenas um chatbot, mas um ecossistema de atendimento automático desenvolvido para o setor de varejo (supermercados). Ele utiliza Inteligência Artificial para entender as intenções do cliente, processar arquivos e otimizar a operação humana.
 
 🚀 O que este Bot faz? (Funcionalidades)
+<img width="1319" height="501" alt="fluxo n8n" src="https://github.com/user-attachments/assets/78f34748-460d-4741-9b0f-7f01a6e75e0a" />
+
 🎙️ Transcrição de Áudio: Converte mensagens de voz em texto em tempo real usando OpenAI Whisper, permitindo que a IA processe pedidos feitos por áudio.
 
 👁️ Visão Computacional & Triagem: Analisa imagens e PDFs automaticamente. O bot identifica se o cliente enviou um Currículo, Nota Fiscal ou Pedido e organiza cada arquivo na pasta correta do Google Drive.
-
-<img width="1319" height="501" alt="fluxo n8n" src="https://github.com/user-attachments/assets/78f34748-460d-4741-9b0f-7f01a6e75e0a" />
 
 🛒 Busca Dinâmica de Produtos: O bot realiza o scraping (leitura) das páginas do site de e-commerce para fornecer preços e links atualizados ao cliente.
 
